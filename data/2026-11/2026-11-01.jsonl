@@ -118,3 +118,18 @@
 {"provider":"openai","model":"x-ai/grok-4.7","status":"healthy","ttft_ms":1008,"latency_ms":1051,"tokens_per_sec":838.8448742582019,"token_count":36,"timestamp":"2026-11-01T07:00:06Z"}
 {"provider":"openai","model":"x-ai/grok-4.6","status":"healthy","ttft_ms":3556,"latency_ms":3567,"tokens_per_sec":8526.202363667184,"token_count":92,"timestamp":"2026-11-01T07:00:08Z"}
 {"provider":"openai","model":"x-ai/grok-4.5","status":"healthy","ttft_ms":4236,"latency_ms":4356,"tokens_per_sec":256.84370618872947,"token_count":31,"timestamp":"2026-11-01T07:00:09Z"}
+{"provider":"openai","model":"openai/gpt-6-luna","status":"degraded","ttft_ms":0,"latency_ms":1229,"tokens_per_sec":0,"token_count":0,"error":"received HTTP 200 but no content tokens","timestamp":"2026-11-01T08:00:02Z"}
+{"provider":"openai","model":"openai/gpt-5.6-luna","status":"healthy","ttft_ms":975,"latency_ms":1133,"tokens_per_sec":82.39684094568274,"token_count":13,"timestamp":"2026-11-01T08:00:02Z"}
+{"provider":"openai","model":"openai/gpt-6.1-sol","status":"healthy","ttft_ms":1415,"latency_ms":1584,"tokens_per_sec":76.98260451917854,"token_count":13,"timestamp":"2026-11-01T08:00:02Z"}
+{"provider":"openai","model":"anthropic/claude-opus-5.5","status":"healthy","ttft_ms":1225,"latency_ms":1706,"tokens_per_sec":29.124966934581067,"token_count":14,"timestamp":"2026-11-01T08:00:02Z"}
+{"provider":"openai","model":"anthropic/claude-haiku-5.5","status":"healthy","ttft_ms":1165,"latency_ms":1344,"tokens_per_sec":77.81720429665248,"token_count":14,"timestamp":"2026-11-01T08:00:02Z"}
+{"provider":"openai","model":"anthropic/claude-sonnet-5.5","status":"healthy","ttft_ms":693,"latency_ms":925,"tokens_per_sec":60.37661457255921,"token_count":14,"timestamp":"2026-11-01T08:00:03Z"}
+{"provider":"openai","model":"google/gemini-3.8-flash","status":"healthy","ttft_ms":0,"latency_ms":3625,"tokens_per_sec":4.689390774859719,"token_count":17,"timestamp":"2026-11-01T08:00:06Z"}
+{"provider":"openai","model":"google/gemini-4-argon","status":"healthy","ttft_ms":1569,"latency_ms":1646,"tokens_per_sec":169.6558349985815,"token_count":13,"timestamp":"2026-11-01T08:00:04Z"}
+{"provider":"openai","model":"google/gemini-3.1-flash-lite","status":"healthy","ttft_ms":264,"latency_ms":303,"tokens_per_sec":227.50789920065355,"token_count":9,"timestamp":"2026-11-01T08:00:03Z"}
+{"provider":"openai","model":"deepseek/deepseek-v4.1-flash-1017","status":"healthy","ttft_ms":1323,"latency_ms":1331,"tokens_per_sec":2636.0133461355717,"token_count":20,"timestamp":"2026-11-01T08:00:04Z"}
+{"provider":"openai","model":"deepseek/deepseek-v4.1-flash","status":"healthy","ttft_ms":0,"latency_ms":1116,"tokens_per_sec":17.910492521386086,"token_count":20,"timestamp":"2026-11-01T08:00:04Z"}
+{"provider":"openai","model":"deepseek/deepseek-v4-flash-0731","status":"healthy","ttft_ms":0,"latency_ms":1223,"tokens_per_sec":16.351153407050226,"token_count":20,"timestamp":"2026-11-01T08:00:04Z"}
+{"provider":"openai","model":"x-ai/grok-4.7","status":"healthy","ttft_ms":1183,"latency_ms":1190,"tokens_per_sec":5199.125870967314,"token_count":40,"timestamp":"2026-11-01T08:00:05Z"}
+{"provider":"openai","model":"x-ai/grok-4.6","status":"healthy","ttft_ms":2890,"latency_ms":2931,"tokens_per_sec":2560.2959544566675,"token_count":104,"timestamp":"2026-11-01T08:00:07Z"}
+{"provider":"openai","model":"x-ai/grok-4.5","status":"healthy","ttft_ms":1023,"latency_ms":1234,"tokens_per_sec":118.31661449369346,"token_count":25,"timestamp":"2026-11-01T08:00:05Z"}
